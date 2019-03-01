@@ -1,0 +1,29 @@
+{
+  "name": "blogsoft",
+  "version": "1.0.0",
+  "description": "based on express/mongo/angular tutorial https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-angular-mongodb-home--cms-30129",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ng serve --proxy-config proxy.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwestleyj/blogsoft.git"
+  },
+  "keywords": [
+    "blog",
+    "angular",
+    "express",
+    "node"
+  ],
+  "author": "clinton j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwestleyj/blogsoft/issues"
+  },
+  "homepage": "https://github.com/cwestleyj/blogsoft#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
