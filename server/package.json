@@ -1,0 +1,28 @@
+{
+  "name": "server_angularblogapp",
+  "version": "1.0.0",
+  "description": "Node package file for express server framework & othersa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwestleyj/blogsoft.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "clinton jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwestleyj/blogsoft/issues"
+  },
+  "homepage": "https://github.com/cwestleyj/blogsoft#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16"
+  }
+}
